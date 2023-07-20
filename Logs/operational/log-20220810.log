@@ -1,0 +1,27 @@
+08/10/2022 12:37:21Now listening on: "https://localhost:5001"
+08/10/2022 12:37:21Now listening on: "http://localhost:5000"
+08/10/2022 12:37:21Application started. Press Ctrl+C to shut down.
+08/10/2022 12:37:21Hosting environment: "Development"
+08/10/2022 12:37:21Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+08/10/2022 12:37:22Request starting HTTP/2 GET https://localhost:5001/swagger  
+08/10/2022 12:37:22HTTP "GET" "/swagger" responded 302 in 7.7935 ms
+08/10/2022 12:37:22Request finished in 30.2898ms 302 
+08/10/2022 12:37:22Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+08/10/2022 12:37:23HTTP "GET" "/swagger/index.html" responded 200 in 450.4992 ms
+08/10/2022 12:37:23Request finished in 451.7759ms 200 text/html; charset=utf-8
+08/10/2022 12:37:23Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+08/10/2022 12:37:24HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 655.5134 ms
+08/10/2022 12:37:24Request finished in 656.667ms 200 application/json; charset=utf-8
+08/10/2022 12:37:55Request starting HTTP/2 POST https://localhost:5001/api/mongodb/getEcino application/json 65
+08/10/2022 12:37:55Executing endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+08/10/2022 12:37:55Route matched with "{action = \"Result\", controller = \"MongoDB\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Result(GetECIno.Models.EcinoRequest)" on controller "GetECIno.Controllers.MongoDBController" ("GetECINo").
+08/10/2022 12:37:56Executing action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)" - Validation state: Valid
+08/10/2022 12:37:56Request: "{\"Name\":\"IJKL\",\"Gender\":\"female\",\"Dob\":\"2000/01/01\"}"
+08/10/2022 12:37:56Database Connected Successfully
+08/10/2022 12:37:56The ECINo is 29421264
+08/10/2022 12:37:56Executed action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)", returned result "Microsoft.AspNetCore.Mvc.ContentResult" in 218.7683ms.
+08/10/2022 12:37:56Executing ContentResult with HTTP Response ContentType of "application/json"
+08/10/2022 12:37:56Executed action "GetECIno.Controllers.MongoDBController.Result (GetECINo)" in 1086.4056ms
+08/10/2022 12:37:56Executed endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+08/10/2022 12:37:56HTTP "POST" "/api/mongodb/getEcino" responded 200 in 1186.1572 ms
+08/10/2022 12:37:56Request finished in 1224.0158ms 200 application/json

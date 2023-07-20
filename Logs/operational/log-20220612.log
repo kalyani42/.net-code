@@ -1,0 +1,619 @@
+06/12/2022 17:53:22Now listening on: "https://localhost:5001"
+06/12/2022 17:53:22Now listening on: "http://localhost:5000"
+06/12/2022 17:53:22Application started. Press Ctrl+C to shut down.
+06/12/2022 17:53:22Hosting environment: "Development"
+06/12/2022 17:53:22Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 17:53:23Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 17:53:23HTTP "GET" "/swagger" responded 302 in 9.7994 ms
+06/12/2022 17:53:23Request finished in 31.3944ms 302 
+06/12/2022 17:53:23Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 17:53:24HTTP "GET" "/swagger/index.html" responded 200 in 525.2699 ms
+06/12/2022 17:53:24Request finished in 526.2567ms 200 text/html; charset=utf-8
+06/12/2022 17:53:24Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css  
+06/12/2022 17:53:24Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+06/12/2022 17:53:24Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+06/12/2022 17:53:24The file "/swagger-ui-bundle.js" was not modified
+06/12/2022 17:53:24The file "/swagger-ui.css" was not modified
+06/12/2022 17:53:24The file "/swagger-ui-standalone-preset.js" was not modified
+06/12/2022 17:53:24HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 304 in 41.9371 ms
+06/12/2022 17:53:24HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 304 in 42.3569 ms
+06/12/2022 17:53:24HTTP "GET" "/swagger/swagger-ui.css" responded 304 in 42.5722 ms
+06/12/2022 17:53:24Request finished in 42.43ms 304 application/javascript
+06/12/2022 17:53:24Request finished in 42.8087ms 304 application/javascript
+06/12/2022 17:53:24Request finished in 43.0978ms 304 text/css
+06/12/2022 17:53:24Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 17:53:25HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 822.9146 ms
+06/12/2022 17:53:25Request finished in 825.1242ms 200 application/json; charset=utf-8
+06/12/2022 17:55:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 17:55:13Request finished in 6.7694ms 200 text/html; charset=utf-8
+06/12/2022 17:55:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/includes.min.js?v=4.2.22+4563a9e1ab  
+06/12/2022 17:55:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/includes.min.css?v=4.2.22+4563a9e1ab  
+06/12/2022 17:55:13Request finished in 3.6432ms 200 text/css
+06/12/2022 17:55:13Request finished in 11.2505ms 200 application/javascript
+06/12/2022 17:55:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:13Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 17:55:14Request finished in 48.7247ms 200 
+06/12/2022 17:55:14HTTP "GET" "/favicon.ico" responded 404 in 68.5770 ms
+06/12/2022 17:55:14Request finished in 70.6905ms 404 
+06/12/2022 17:55:18Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:18Request finished in 5.4263ms 200 
+06/12/2022 17:55:22Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:22Request finished in 9.6789ms 200 
+06/12/2022 17:55:26Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:26Request finished in 3.107ms 200 
+06/12/2022 17:55:30Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:30Request finished in 2.0884ms 200 
+06/12/2022 17:55:34Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:34Request finished in 2.8915ms 200 
+06/12/2022 17:55:38Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 17:55:38Request finished in 3.5358ms 200 
+06/12/2022 17:55:39Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler  
+06/12/2022 17:55:39Request finished in 2.0641ms 404 text/plain
+06/12/2022 18:05:18Now listening on: "https://localhost:5001"
+06/12/2022 18:05:18Now listening on: "http://localhost:5000"
+06/12/2022 18:05:18Application started. Press Ctrl+C to shut down.
+06/12/2022 18:05:18Hosting environment: "Development"
+06/12/2022 18:05:18Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 18:05:19Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:05:19HTTP "GET" "/swagger" responded 302 in 13.3782 ms
+06/12/2022 18:05:19Request finished in 36.9393ms 302 
+06/12/2022 18:05:19Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:05:19HTTP "GET" "/swagger/index.html" responded 200 in 238.5318 ms
+06/12/2022 18:05:19Request finished in 240.5333ms 200 text/html; charset=utf-8
+06/12/2022 18:05:19Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:05:20HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 621.4738 ms
+06/12/2022 18:05:20Request finished in 623.0581ms 200 application/json; charset=utf-8
+06/12/2022 18:05:26Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:05:26HTTP "GET" "/swagger" responded 302 in 0.3874 ms
+06/12/2022 18:05:26Request finished in 3.1678ms 302 
+06/12/2022 18:05:26Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:05:26HTTP "GET" "/swagger/index.html" responded 200 in 3.9852 ms
+06/12/2022 18:05:26Request finished in 6.3335ms 200 text/html; charset=utf-8
+06/12/2022 18:05:26Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:05:26HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 1.2306 ms
+06/12/2022 18:05:26Request finished in 2.493ms 200 application/json; charset=utf-8
+06/12/2022 18:09:22Now listening on: "https://localhost:5001"
+06/12/2022 18:09:22Now listening on: "http://localhost:5000"
+06/12/2022 18:09:22Application started. Press Ctrl+C to shut down.
+06/12/2022 18:09:22Hosting environment: "Development"
+06/12/2022 18:09:22Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 18:09:22Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:09:22HTTP "GET" "/swagger" responded 302 in 6.8431 ms
+06/12/2022 18:09:22Request finished in 25.6393ms 302 
+06/12/2022 18:09:22Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:09:23HTTP "GET" "/swagger/index.html" responded 200 in 221.4537 ms
+06/12/2022 18:09:23Request finished in 222.0707ms 200 text/html; charset=utf-8
+06/12/2022 18:09:23Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:09:23HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 540.9731 ms
+06/12/2022 18:09:23Request finished in 542.4232ms 200 application/json; charset=utf-8
+06/12/2022 18:10:10Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:10:10Request finished in 7.8862ms 200 text/html; charset=utf-8
+06/12/2022 18:10:10Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:10:10Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 18:10:10Request finished in 40.8585ms 200 
+06/12/2022 18:10:10HTTP "GET" "/favicon.ico" responded 404 in 124.5176 ms
+06/12/2022 18:10:10Request finished in 126.9775ms 404 
+06/12/2022 18:10:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:10:14Request finished in 9.3578ms 200 
+06/12/2022 18:10:18Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:10:18Request finished in 2.7037ms 200 
+06/12/2022 18:10:22Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:10:22Request finished in 6.4151ms 200 
+06/12/2022 18:10:25Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:10:25HTTP "GET" "/swagger" responded 302 in 0.3959 ms
+06/12/2022 18:10:25Request finished in 2.226ms 302 
+06/12/2022 18:10:25Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:10:25HTTP "GET" "/swagger/index.html" responded 200 in 2.4306 ms
+06/12/2022 18:10:25Request finished in 3.7869ms 200 text/html; charset=utf-8
+06/12/2022 18:10:25Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:10:25HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 0.7247 ms
+06/12/2022 18:10:25Request finished in 1.6445ms 200 application/json; charset=utf-8
+06/12/2022 18:14:02Now listening on: "https://localhost:5001"
+06/12/2022 18:14:02Now listening on: "http://localhost:5000"
+06/12/2022 18:14:02Application started. Press Ctrl+C to shut down.
+06/12/2022 18:14:02Hosting environment: "Development"
+06/12/2022 18:14:02Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 18:14:03Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:14:03HTTP "GET" "/swagger" responded 302 in 11.2649 ms
+06/12/2022 18:14:03Request finished in 41.1845ms 302 
+06/12/2022 18:14:03Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:14:04HTTP "GET" "/swagger/index.html" responded 200 in 247.5756 ms
+06/12/2022 18:14:04Request finished in 248.0378ms 200 text/html; charset=utf-8
+06/12/2022 18:14:04Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:14:04HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 726.8286 ms
+06/12/2022 18:14:04Request finished in 728.0525ms 200 application/json; charset=utf-8
+06/12/2022 18:14:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:14:12Request finished in 8.2526ms 200 text/html; charset=utf-8
+06/12/2022 18:14:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:14:12Request finished in 30.8974ms 200 
+06/12/2022 18:14:17Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:14:17Request finished in 7.4615ms 200 
+06/12/2022 18:14:21Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:14:21Request finished in 5.8147ms 200 
+06/12/2022 18:15:10Now listening on: "https://localhost:5001"
+06/12/2022 18:15:10Now listening on: "http://localhost:5000"
+06/12/2022 18:15:10Application started. Press Ctrl+C to shut down.
+06/12/2022 18:15:10Hosting environment: "Development"
+06/12/2022 18:15:10Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 18:15:11Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:15:11HTTP "GET" "/swagger" responded 302 in 10.3230 ms
+06/12/2022 18:15:11Request finished in 35.1822ms 302 
+06/12/2022 18:15:11Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:15:11HTTP "GET" "/swagger/index.html" responded 200 in 277.3525 ms
+06/12/2022 18:15:11Request finished in 277.9872ms 200 text/html; charset=utf-8
+06/12/2022 18:15:11Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:15:11Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png  
+06/12/2022 18:15:11The file "/favicon-32x32.png" was not modified
+06/12/2022 18:15:11HTTP "GET" "/swagger/favicon-32x32.png" responded 304 in 26.0923 ms
+06/12/2022 18:15:11Request finished in 27.0519ms 304 image/png
+06/12/2022 18:15:12HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 697.0602 ms
+06/12/2022 18:15:12Request finished in 698.312ms 200 application/json; charset=utf-8
+06/12/2022 18:15:48Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:15:48Request finished in 7.3721ms 200 text/html; charset=utf-8
+06/12/2022 18:15:48Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:15:48Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 18:15:48Request finished in 36.8658ms 200 
+06/12/2022 18:15:48HTTP "GET" "/favicon.ico" responded 404 in 102.6303 ms
+06/12/2022 18:15:48Request finished in 104.609ms 404 
+06/12/2022 18:15:52Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:15:52Request finished in 5.1998ms 200 
+06/12/2022 18:15:56Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:15:56Request finished in 1.9202ms 200 
+06/12/2022 18:16:00Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:00Request finished in 4.3769ms 200 
+06/12/2022 18:16:04Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:04Request finished in 3.7568ms 200 
+06/12/2022 18:16:08Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:08Request finished in 3.454ms 200 
+06/12/2022 18:16:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:12Request finished in 2.5643ms 200 
+06/12/2022 18:16:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:16Request finished in 2.0435ms 200 
+06/12/2022 18:16:20Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:20Request finished in 2.7291ms 200 
+06/12/2022 18:16:24Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:24Request finished in 2.5727ms 200 
+06/12/2022 18:16:28Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:28Request finished in 2.4215ms 200 
+06/12/2022 18:16:32Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:32Request finished in 2.1008ms 200 
+06/12/2022 18:16:36Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:36Request finished in 1.6216ms 200 
+06/12/2022 18:16:40Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:40Request finished in 1.4274ms 200 
+06/12/2022 18:16:44Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:44Request finished in 1.5202ms 200 
+06/12/2022 18:16:48Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:48Request finished in 2.9345ms 200 
+06/12/2022 18:16:52Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:52Request finished in 2.6581ms 200 
+06/12/2022 18:16:56Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:16:56Request finished in 1.0641ms 200 
+06/12/2022 18:17:00Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:00Request finished in 1.3428ms 200 
+06/12/2022 18:17:04Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:04Request finished in 1.217ms 200 
+06/12/2022 18:17:08Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:08Request finished in 1.0318ms 200 
+06/12/2022 18:17:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:12Request finished in 1.4825ms 200 
+06/12/2022 18:17:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:16Request finished in 0.8949ms 200 
+06/12/2022 18:17:20Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:20Request finished in 0.961ms 200 
+06/12/2022 18:17:24Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:24Request finished in 0.9114ms 200 
+06/12/2022 18:17:28Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:28Request finished in 1.4628ms 200 
+06/12/2022 18:17:32Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:32Request finished in 0.894ms 200 
+06/12/2022 18:17:36Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:36Request finished in 1.6774ms 200 
+06/12/2022 18:17:40Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:40Request finished in 1.4379ms 200 
+06/12/2022 18:17:44Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:44Request finished in 2.2931ms 200 
+06/12/2022 18:17:48Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:48Request finished in 2.6625ms 200 
+06/12/2022 18:17:52Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:52Request finished in 1.5589ms 200 
+06/12/2022 18:17:56Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:17:56Request finished in 0.8929ms 200 
+06/12/2022 18:18:00Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:00Request finished in 1.4682ms 200 
+06/12/2022 18:18:04Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:04Request finished in 1.5261ms 200 
+06/12/2022 18:18:08Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:08Request finished in 0.6523ms 200 
+06/12/2022 18:18:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:12Request finished in 1.0072ms 200 
+06/12/2022 18:18:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:16Request finished in 1.768ms 200 
+06/12/2022 18:18:20Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:20Request finished in 0.9907ms 200 
+06/12/2022 18:18:24Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:24Request finished in 1.2958ms 200 
+06/12/2022 18:18:28Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:28Request finished in 0.9382ms 200 
+06/12/2022 18:18:32Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:18:32HTTP "GET" "/swagger" responded 302 in 0.2121 ms
+06/12/2022 18:18:32Request finished in 0.7672ms 302 
+06/12/2022 18:18:32Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:18:32HTTP "GET" "/swagger/index.html" responded 200 in 1.2186 ms
+06/12/2022 18:18:32Request finished in 2.057ms 200 text/html; charset=utf-8
+06/12/2022 18:18:32Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:18:32HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 0.4281 ms
+06/12/2022 18:18:32Request finished in 1.126ms 200 application/json; charset=utf-8
+06/12/2022 18:18:56Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:18:56Request finished in 0.9074ms 200 text/html; charset=utf-8
+06/12/2022 18:18:56Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:18:56Request finished in 0.572ms 200 
+06/12/2022 18:19:00Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:00Request finished in 1.0634ms 200 
+06/12/2022 18:19:05Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:05Request finished in 1.1353ms 200 
+06/12/2022 18:19:09Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:09Request finished in 1.8198ms 200 
+06/12/2022 18:19:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:12Request finished in 0.8985ms 200 text/html; charset=utf-8
+06/12/2022 18:19:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:12Request finished in 0.5597ms 200 
+06/12/2022 18:19:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:12Request finished in 0.8421ms 200 text/html; charset=utf-8
+06/12/2022 18:19:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:12Request finished in 0.4351ms 200 
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:13Request finished in 0.6826ms 200 text/html; charset=utf-8
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:13Request finished in 0.8024ms 200 
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:13Request finished in 0.8338ms 200 text/html; charset=utf-8
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:13Request finished in 0.5971ms 200 
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:13Request finished in 0.5727ms 200 text/html; charset=utf-8
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:13Request finished in 0.5968ms 200 
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:13Request finished in 0.5154ms 200 text/html; charset=utf-8
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:13Request finished in 0.7877ms 200 
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:13Request finished in 0.5741ms 200 text/html; charset=utf-8
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:13Request finished in 0.5828ms 200 
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:13Request finished in 0.6821ms 200 text/html; charset=utf-8
+06/12/2022 18:19:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:13Request finished in 0.8684ms 200 
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:14Request finished in 0.7457ms 200 text/html; charset=utf-8
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:14Request finished in 0.694ms 200 
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:14Request finished in 0.7204ms 200 text/html; charset=utf-8
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:14Request finished in 0.6283ms 200 
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:14Request finished in 0.7022ms 200 text/html; charset=utf-8
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:14Request finished in 0.6291ms 200 
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:14Request finished in 0.7421ms 200 text/html; charset=utf-8
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:14Request finished in 0.67ms 200 
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:14Request finished in 0.6586ms 200 text/html; charset=utf-8
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:14Request finished in 0.7309ms 200 
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:14Request finished in 0.8848ms 200 text/html; charset=utf-8
+06/12/2022 18:19:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:14Request finished in 0.6677ms 200 
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:15Request finished in 0.6449ms 200 text/html; charset=utf-8
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:15Request finished in 0.6616ms 200 
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:15Request finished in 0.7075ms 200 text/html; charset=utf-8
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:15Request finished in 0.6041ms 200 
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:15Request finished in 0.6766ms 200 text/html; charset=utf-8
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:15Request finished in 0.4824ms 200 
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:15Request finished in 0.6568ms 200 text/html; charset=utf-8
+06/12/2022 18:19:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:15Request finished in 0.4581ms 200 
+06/12/2022 18:19:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:16Request finished in 0.6956ms 200 text/html; charset=utf-8
+06/12/2022 18:19:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:16Request finished in 0.4334ms 200 
+06/12/2022 18:19:18Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:18Request finished in 0.6917ms 200 text/html; charset=utf-8
+06/12/2022 18:19:18Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:18Request finished in 0.5757ms 200 
+06/12/2022 18:19:19Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:19:19Request finished in 0.8107ms 200 text/html; charset=utf-8
+06/12/2022 18:19:19Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:19Request finished in 0.5913ms 200 
+06/12/2022 18:19:23Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:23Request finished in 1.5692ms 200 
+06/12/2022 18:19:27Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:27Request finished in 0.7461ms 200 
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:32Request finished in 0.5613ms 200 
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:19:32HTTP "GET" "/swagger/index.html" responded 200 in 5.4122 ms
+06/12/2022 18:19:32Request finished in 10.4978ms 200 text/html; charset=utf-8
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css  
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+06/12/2022 18:19:32Sending file. Request path: '"/swagger-ui-standalone-preset.js"'. Physical path: '"N/A"'
+06/12/2022 18:19:32Sending file. Request path: '"/swagger-ui.css"'. Physical path: '"N/A"'
+06/12/2022 18:19:32HTTP "GET" "/swagger/swagger-ui.css" responded 200 in 83.1562 ms
+06/12/2022 18:19:32HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 200 in 69.9693 ms
+06/12/2022 18:19:32Request finished in 86.4225ms 200 text/css
+06/12/2022 18:19:32Request finished in 72.88ms 200 application/javascript
+06/12/2022 18:19:32Sending file. Request path: '"/swagger-ui-bundle.js"'. Physical path: '"N/A"'
+06/12/2022 18:19:32HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 200 in 85.7584 ms
+06/12/2022 18:19:32Request finished in 86.491ms 200 application/javascript
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:19:32HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 0.1494 ms
+06/12/2022 18:19:32Request finished in 0.7066ms 200 application/json; charset=utf-8
+06/12/2022 18:19:32Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png  
+06/12/2022 18:19:32Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+06/12/2022 18:19:32HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 0.2882 ms
+06/12/2022 18:19:32Request finished in 0.8132ms 200 image/png
+06/12/2022 18:19:37Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:37Request finished in 1.1005ms 200 
+06/12/2022 18:19:42Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:42Request finished in 1.4136ms 200 
+06/12/2022 18:19:47Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:47Request finished in 1.6948ms 200 
+06/12/2022 18:19:52Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:52Request finished in 0.6193ms 200 
+06/12/2022 18:19:57Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:19:57Request finished in 0.8658ms 200 
+06/12/2022 18:20:01Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:01Request finished in 1.1064ms 200 
+06/12/2022 18:20:06Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:06Request finished in 2.3342ms 200 
+06/12/2022 18:20:11Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:11Request finished in 1.8595ms 200 
+06/12/2022 18:20:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:20:14Request finished in 0.4628ms 200 text/html; charset=utf-8
+06/12/2022 18:20:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/includes.min.js?v=4.2.22+4563a9e1ab  
+06/12/2022 18:20:14Request finished in 2.3544ms 200 application/javascript
+06/12/2022 18:20:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/includes.min.css?v=4.2.22+4563a9e1ab  
+06/12/2022 18:20:14Request finished in 1.0998ms 200 text/css
+06/12/2022 18:20:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:14Request finished in 0.6024ms 200 
+06/12/2022 18:20:14Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 18:20:14HTTP "GET" "/favicon.ico" responded 404 in 2.5556 ms
+06/12/2022 18:20:14Request finished in 3.5982ms 404 
+06/12/2022 18:20:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:16Request finished in 1.2842ms 200 
+06/12/2022 18:20:18Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:18Request finished in 1.0838ms 200 
+06/12/2022 18:20:21Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:21Request finished in 1.6261ms 200 
+06/12/2022 18:20:22Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:22Request finished in 1.7831ms 200 
+06/12/2022 18:20:26Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:26Request finished in 1.5613ms 200 
+06/12/2022 18:20:27Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:27Request finished in 1.6566ms 200 
+06/12/2022 18:20:31Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:31Request finished in 1.7032ms 200 
+06/12/2022 18:20:32Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:32Request finished in 1.7976ms 200 
+06/12/2022 18:20:36Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:36Request finished in 1.0205ms 200 
+06/12/2022 18:20:37Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:37Request finished in 0.925ms 200 
+06/12/2022 18:20:41Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:41Request finished in 1.099ms 200 
+06/12/2022 18:20:42Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:42Request finished in 0.5807ms 200 
+06/12/2022 18:20:46Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:46Request finished in 0.5603ms 200 
+06/12/2022 18:20:47Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:47Request finished in 1.5854ms 200 
+06/12/2022 18:20:51Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:51Request finished in 1.7514ms 200 
+06/12/2022 18:20:52Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:52Request finished in 1.0804ms 200 
+06/12/2022 18:20:56Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:56Request finished in 1.4599ms 200 
+06/12/2022 18:20:57Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:20:57Request finished in 0.6697ms 200 
+06/12/2022 18:21:01Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:01Request finished in 1.3117ms 200 
+06/12/2022 18:21:02Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:02Request finished in 2.1797ms 200 
+06/12/2022 18:21:06Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:06Request finished in 0.8447ms 200 
+06/12/2022 18:21:07Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:07Request finished in 1.9468ms 200 
+06/12/2022 18:21:11Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:11Request finished in 1.6246ms 200 
+06/12/2022 18:21:11Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:11Request finished in 1.6011ms 200 
+06/12/2022 18:21:11Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:11Request finished in 0.6304ms 200 text/html; charset=utf-8
+06/12/2022 18:21:11Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:11Request finished in 0.9136ms 200 
+06/12/2022 18:21:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:12Request finished in 0.646ms 200 text/html; charset=utf-8
+06/12/2022 18:21:12Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:12Request finished in 0.6103ms 200 
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:13Request finished in 0.6932ms 200 text/html; charset=utf-8
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:13Request finished in 1.2491ms 200 
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:13Request finished in 0.9431ms 200 text/html; charset=utf-8
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:13Request finished in 0.4597ms 200 
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:13Request finished in 0.6991ms 200 text/html; charset=utf-8
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:13Request finished in 0.6561ms 200 
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:13Request finished in 0.6383ms 200 text/html; charset=utf-8
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:13Request finished in 0.4769ms 200 
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:13Request finished in 0.58ms 200 text/html; charset=utf-8
+06/12/2022 18:21:13Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:13Request finished in 0.5232ms 200 
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:14Request finished in 0.2008ms 200 text/html; charset=utf-8
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:14Request finished in 0.6357ms 200 
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:14Request finished in 0.567ms 200 text/html; charset=utf-8
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:14Request finished in 0.9394ms 200 
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:14Request finished in 0.799ms 200 text/html; charset=utf-8
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:14Request finished in 0.6777ms 200 
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:14Request finished in 0.564ms 200 text/html; charset=utf-8
+06/12/2022 18:21:14Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:14Request finished in 0.5179ms 200 
+06/12/2022 18:21:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:15Request finished in 0.7101ms 200 text/html; charset=utf-8
+06/12/2022 18:21:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:15Request finished in 0.6883ms 200 
+06/12/2022 18:21:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:21:15Request finished in 0.2508ms 200 text/html; charset=utf-8
+06/12/2022 18:21:15Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:15Request finished in 0.5521ms 200 
+06/12/2022 18:21:16Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:16Request finished in 1.8593ms 200 
+06/12/2022 18:21:19Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:19Request finished in 1.3503ms 200 
+06/12/2022 18:21:21Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:21Request finished in 0.8778ms 200 
+06/12/2022 18:21:23Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:23Request finished in 1.2519ms 200 
+06/12/2022 18:21:26Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:26Request finished in 1.3689ms 200 
+06/12/2022 18:21:28Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:21:28Request finished in 1.6058ms 200 
+06/12/2022 18:30:13Now listening on: "https://localhost:5001"
+06/12/2022 18:30:13Now listening on: "http://localhost:5000"
+06/12/2022 18:30:13Application started. Press Ctrl+C to shut down.
+06/12/2022 18:30:13Hosting environment: "Development"
+06/12/2022 18:30:13Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 18:30:14Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 18:30:14HTTP "GET" "/swagger" responded 302 in 11.9746 ms
+06/12/2022 18:30:14Request finished in 46.2605ms 302 
+06/12/2022 18:30:14Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 18:30:14HTTP "GET" "/swagger/index.html" responded 200 in 330.0601 ms
+06/12/2022 18:30:14Request finished in 332.9983ms 200 text/html; charset=utf-8
+06/12/2022 18:30:15Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 18:30:15HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 720.9826 ms
+06/12/2022 18:30:15Request finished in 722.5934ms 200 application/json; charset=utf-8
+06/12/2022 18:30:36Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 18:30:36Request finished in 8.9943ms 200 text/html; charset=utf-8
+06/12/2022 18:30:36Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:30:36Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 18:30:36Request finished in 46.8102ms 200 
+06/12/2022 18:30:36HTTP "GET" "/favicon.ico" responded 404 in 99.9083 ms
+06/12/2022 18:30:36Request finished in 102.3889ms 404 
+06/12/2022 18:30:40Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:30:40Request finished in 6.2006ms 200 
+06/12/2022 18:30:44Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:30:44Request finished in 7.3803ms 200 
+06/12/2022 18:30:48Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:30:48Request finished in 6.1348ms 200 
+06/12/2022 18:30:52Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 18:30:52Request finished in 4.3995ms 200 
+06/12/2022 19:12:41Now listening on: "https://localhost:5001"
+06/12/2022 19:12:41Now listening on: "http://localhost:5000"
+06/12/2022 19:12:41Application started. Press Ctrl+C to shut down.
+06/12/2022 19:12:41Hosting environment: "Development"
+06/12/2022 19:12:41Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 19:12:42Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 19:12:42HTTP "GET" "/swagger" responded 302 in 14.4973 ms
+06/12/2022 19:12:42Request finished in 55.4227ms 302 
+06/12/2022 19:12:42Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 19:12:43HTTP "GET" "/swagger/index.html" responded 200 in 438.0387 ms
+06/12/2022 19:12:43Request finished in 439.0422ms 200 text/html; charset=utf-8
+06/12/2022 19:12:43Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 19:12:44HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 856.0281 ms
+06/12/2022 19:12:44Request finished in 857.6037ms 200 application/json; charset=utf-8
+06/12/2022 19:12:53Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 19:12:53Request finished in 7.2014ms 200 text/html; charset=utf-8
+06/12/2022 19:12:53Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:12:53Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 19:12:53Request finished in 33.7202ms 200 
+06/12/2022 19:12:54HTTP "GET" "/favicon.ico" responded 404 in 101.5391 ms
+06/12/2022 19:12:54Request finished in 104.549ms 404 
+06/12/2022 19:12:57Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:12:57Request finished in 4.3422ms 200 
+06/12/2022 19:13:02Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:13:02Request finished in 4.5119ms 200 
+06/12/2022 19:13:06Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:13:06Request finished in 4.4801ms 200 
+06/12/2022 19:15:29Now listening on: "https://localhost:5001"
+06/12/2022 19:15:29Now listening on: "http://localhost:5000"
+06/12/2022 19:15:29Application started. Press Ctrl+C to shut down.
+06/12/2022 19:15:29Hosting environment: "Development"
+06/12/2022 19:15:29Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 19:15:30Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 19:15:30HTTP "GET" "/swagger" responded 302 in 13.3418 ms
+06/12/2022 19:15:30Request finished in 45.1703ms 302 
+06/12/2022 19:15:30Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 19:15:30HTTP "GET" "/swagger/index.html" responded 200 in 304.9777 ms
+06/12/2022 19:15:30Request finished in 305.5857ms 200 text/html; charset=utf-8
+06/12/2022 19:15:30Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 19:15:31HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 751.7471 ms
+06/12/2022 19:15:31Request finished in 756.2518ms 200 application/json; charset=utf-8
+06/12/2022 19:15:39Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 19:15:39Request finished in 7.5563ms 200 text/html; charset=utf-8
+06/12/2022 19:15:39Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:15:39Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 19:15:39Request finished in 44.1203ms 200 
+06/12/2022 19:15:40HTTP "GET" "/favicon.ico" responded 404 in 130.4591 ms
+06/12/2022 19:15:40Request finished in 134.1572ms 404 
+06/12/2022 19:15:43Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:15:43Request finished in 6.6688ms 200 
+06/12/2022 19:15:47Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:15:47Request finished in 3.8396ms 200 
+06/12/2022 19:18:36Now listening on: "https://localhost:5001"
+06/12/2022 19:18:36Now listening on: "http://localhost:5000"
+06/12/2022 19:18:36Application started. Press Ctrl+C to shut down.
+06/12/2022 19:18:36Hosting environment: "Development"
+06/12/2022 19:18:36Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/12/2022 19:18:36Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/12/2022 19:18:36HTTP "GET" "/swagger" responded 302 in 12.3243 ms
+06/12/2022 19:18:36Request finished in 49.7536ms 302 
+06/12/2022 19:18:36Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/12/2022 19:18:37HTTP "GET" "/swagger/index.html" responded 200 in 285.5574 ms
+06/12/2022 19:18:37Request finished in 286.1036ms 200 text/html; charset=utf-8
+06/12/2022 19:18:37Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/12/2022 19:18:38HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 768.9508 ms
+06/12/2022 19:18:38Request finished in 769.6114ms 200 application/json; charset=utf-8
+06/12/2022 19:18:46Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-index  
+06/12/2022 19:18:46Request finished in 8.0932ms 200 text/html; charset=utf-8
+06/12/2022 19:18:46Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:18:46Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/12/2022 19:18:46Request finished in 34.8703ms 200 
+06/12/2022 19:18:46HTTP "GET" "/favicon.ico" responded 404 in 107.0586 ms
+06/12/2022 19:18:46Request finished in 109.7544ms 404 
+06/12/2022 19:18:50Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:18:50Request finished in 4.5564ms 200 
+06/12/2022 19:18:54Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:18:54Request finished in 3.156ms 200 
+06/12/2022 19:18:59Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:18:59Request finished in 3.1143ms 200 
+06/12/2022 19:19:04Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:19:04Request finished in 6.807ms 200 
+06/12/2022 19:19:09Request starting HTTP/2 GET https://localhost:5001/training_2022/miniprofiler/results-list?last-id=undefined application/json 
+06/12/2022 19:19:09Request finished in 3.3378ms 200 
