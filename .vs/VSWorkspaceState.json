@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Helpers",
+    "\\Logs",
+    "\\Logs\\audit",
+    "\\Middleware",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netcoreapp3.1",
+    "\\Properties",
+    "\\Repository",
+    "\\Repository\\Interfaces"
+  ],
+  "SelectedNode": "\\Middleware\\AuditMiddleware.cs",
+  "PreviewInSolutionExplorer": false
+}

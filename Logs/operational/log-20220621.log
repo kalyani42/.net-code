@@ -1,0 +1,137 @@
+06/21/2022 15:55:46Now listening on: "https://localhost:5001"
+06/21/2022 15:55:46Now listening on: "http://localhost:5000"
+06/21/2022 15:55:46Application started. Press Ctrl+C to shut down.
+06/21/2022 15:55:46Hosting environment: "Development"
+06/21/2022 15:55:46Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/21/2022 15:55:46Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/21/2022 15:55:46HTTP "GET" "/swagger" responded 302 in 7.2240 ms
+06/21/2022 15:55:47Request finished in 30.5707ms 302 
+06/21/2022 15:55:47Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/21/2022 15:55:47HTTP "GET" "/swagger/index.html" responded 200 in 424.2100 ms
+06/21/2022 15:55:47Request finished in 425.1559ms 200 text/html; charset=utf-8
+06/21/2022 15:55:47Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui.css  
+06/21/2022 15:55:47Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-bundle.js  
+06/21/2022 15:55:47Request starting HTTP/2 GET https://localhost:5001/swagger/swagger-ui-standalone-preset.js  
+06/21/2022 15:55:47The file "/swagger-ui-standalone-preset.js" was not modified
+06/21/2022 15:55:47The file "/swagger-ui.css" was not modified
+06/21/2022 15:55:47The file "/swagger-ui-bundle.js" was not modified
+06/21/2022 15:55:47HTTP "GET" "/swagger/swagger-ui-standalone-preset.js" responded 304 in 41.8425 ms
+06/21/2022 15:55:47HTTP "GET" "/swagger/swagger-ui-bundle.js" responded 304 in 46.2095 ms
+06/21/2022 15:55:47HTTP "GET" "/swagger/swagger-ui.css" responded 304 in 48.1353 ms
+06/21/2022 15:55:47Request finished in 42.556ms 304 application/javascript
+06/21/2022 15:55:47Request finished in 46.6105ms 304 application/javascript
+06/21/2022 15:55:47Request finished in 48.6941ms 304 text/css
+06/21/2022 15:55:47Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/21/2022 15:55:47Request starting HTTP/2 GET https://localhost:5001/swagger/favicon-32x32.png  
+06/21/2022 15:55:47Sending file. Request path: '"/favicon-32x32.png"'. Physical path: '"N/A"'
+06/21/2022 15:55:47HTTP "GET" "/swagger/favicon-32x32.png" responded 200 in 9.7058 ms
+06/21/2022 15:55:47Request finished in 10.6488ms 200 image/png
+06/21/2022 15:55:48HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 643.9500 ms
+06/21/2022 15:55:48Request finished in 645.501ms 200 application/json; charset=utf-8
+06/21/2022 15:56:35Request starting HTTP/2 POST https://localhost:5001/api/mongodb/getEcino application/json 63
+06/21/2022 15:56:35Executing endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 15:56:36Route matched with "{action = \"Result\", controller = \"MongoDB\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Result(GetECIno.Models.EcinoRequest)" on controller "GetECIno.Controllers.MongoDBController" ("GetECINo").
+06/21/2022 15:56:36Executing action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)" - Validation state: Valid
+06/21/2022 15:56:36Request: "{\"Name\":\"ABCD\",\"Gender\":\"male\",\"Dob\":\"2000/02/02\"}"
+06/21/2022 15:56:36Database Connected Successfully
+06/21/2022 15:56:37No matches found
+06/21/2022 15:56:37Executed action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)", returned result "Microsoft.AspNetCore.Mvc.ContentResult" in 198.9712ms.
+06/21/2022 15:56:37Executing ContentResult with HTTP Response ContentType of "application/json"
+06/21/2022 15:56:37Executed action "GetECIno.Controllers.MongoDBController.Result (GetECINo)" in 1072.1061ms
+06/21/2022 15:56:37Executed endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 15:56:37HTTP "POST" "/api/mongodb/getEcino" responded 404 in 1168.7537 ms
+06/21/2022 15:56:37Request finished in 1202.5016ms 404 application/json
+06/21/2022 16:00:51Now listening on: "https://localhost:5001"
+06/21/2022 16:00:51Now listening on: "http://localhost:5000"
+06/21/2022 16:00:51Application started. Press Ctrl+C to shut down.
+06/21/2022 16:00:51Hosting environment: "Development"
+06/21/2022 16:00:51Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/21/2022 16:00:51Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/21/2022 16:00:52HTTP "GET" "/swagger" responded 302 in 8.2240 ms
+06/21/2022 16:00:52Request finished in 25.9519ms 302 
+06/21/2022 16:00:52Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/21/2022 16:00:52HTTP "GET" "/swagger/index.html" responded 200 in 192.1966 ms
+06/21/2022 16:00:52Request finished in 193.0498ms 200 text/html; charset=utf-8
+06/21/2022 16:00:52Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/21/2022 16:00:53HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 558.5259 ms
+06/21/2022 16:00:53Request finished in 559.7838ms 200 application/json; charset=utf-8
+06/21/2022 16:01:27Request starting HTTP/2 POST https://localhost:5001/api/mongodb/getEcino application/json 63
+06/21/2022 16:01:27Executing endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 16:01:27Route matched with "{action = \"Result\", controller = \"MongoDB\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Result(GetECIno.Models.EcinoRequest)" on controller "GetECIno.Controllers.MongoDBController" ("GetECINo").
+06/21/2022 16:01:27Executing action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)" - Validation state: Valid
+06/21/2022 16:01:27Request: "{\"Name\":\"ABCD\",\"Gender\":\"male\",\"Dob\":\"1997/09/09\"}"
+06/21/2022 16:01:27Database Connected Successfully
+06/21/2022 16:01:27More than one match found
+06/21/2022 16:01:27Executed action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)", returned result "Microsoft.AspNetCore.Mvc.ContentResult" in 161.9824ms.
+06/21/2022 16:01:27Executing ContentResult with HTTP Response ContentType of "application/json"
+06/21/2022 16:01:27Executed action "GetECIno.Controllers.MongoDBController.Result (GetECINo)" in 553.6695ms
+06/21/2022 16:01:27Executed endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 16:01:27HTTP "POST" "/api/mongodb/getEcino" responded 400 in 643.2058 ms
+06/21/2022 16:01:27Request finished in 675.5157ms 400 application/json
+06/21/2022 16:02:27Request starting HTTP/2 POST https://localhost:5001/api/mongodb/getEcino application/json 63
+06/21/2022 16:02:27Executing endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 16:02:27Route matched with "{action = \"Result\", controller = \"MongoDB\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Result(GetECIno.Models.EcinoRequest)" on controller "GetECIno.Controllers.MongoDBController" ("GetECINo").
+06/21/2022 16:02:27Executing action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)" - Validation state: Valid
+06/21/2022 16:02:27Request: "{\"Name\":\"EFGH\",\"Gender\":\"male\",\"Dob\":\"2001/02/09\"}"
+06/21/2022 16:02:27Database Connected Successfully
+06/21/2022 16:02:27The ECINo is 199239394
+06/21/2022 16:02:27Executed action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)", returned result "Microsoft.AspNetCore.Mvc.ContentResult" in 9.2504ms.
+06/21/2022 16:02:27Executing ContentResult with HTTP Response ContentType of "application/json"
+06/21/2022 16:02:27Executed action "GetECIno.Controllers.MongoDBController.Result (GetECINo)" in 11.1259ms
+06/21/2022 16:02:27Executed endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 16:02:27HTTP "POST" "/api/mongodb/getEcino" responded 200 in 14.4544 ms
+06/21/2022 16:02:27Request finished in 19.1976ms 200 application/json
+06/21/2022 18:15:13Now listening on: "https://localhost:5001"
+06/21/2022 18:15:13Now listening on: "http://localhost:5000"
+06/21/2022 18:15:13Application started. Press Ctrl+C to shut down.
+06/21/2022 18:15:13Hosting environment: "Development"
+06/21/2022 18:15:13Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/21/2022 18:15:14Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/21/2022 18:15:14HTTP "GET" "/swagger" responded 302 in 6.6649 ms
+06/21/2022 18:15:14Request finished in 23.6391ms 302 
+06/21/2022 18:15:14Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/21/2022 18:15:14HTTP "GET" "/swagger/index.html" responded 200 in 200.3373 ms
+06/21/2022 18:15:14Request finished in 201.4154ms 200 text/html; charset=utf-8
+06/21/2022 18:15:14Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/21/2022 18:15:15HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 582.4327 ms
+06/21/2022 18:15:15Request finished in 583.1935ms 200 application/json; charset=utf-8
+06/21/2022 18:17:12Request starting HTTP/2 POST https://localhost:5001/api/mongodb/getEcino application/json 62
+06/21/2022 18:17:13Executing endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 18:17:13Route matched with "{action = \"Result\", controller = \"MongoDB\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Result(GetECIno.Models.EcinoRequest)" on controller "GetECIno.Controllers.MongoDBController" ("GetECINo").
+06/21/2022 18:17:13Executing action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)" - Validation state: Valid
+06/21/2022 18:17:13Request: "{\"Name\":\"ABCD\",\"Gender\":\"male\",\"Dob\":\"2001/01/18\"}"
+06/21/2022 18:17:13Database Connected Successfully
+06/21/2022 18:17:13No matches found
+06/21/2022 18:17:13Executed action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)", returned result "Microsoft.AspNetCore.Mvc.ContentResult" in 124.4811ms.
+06/21/2022 18:17:13Executing ContentResult with HTTP Response ContentType of "application/json"
+06/21/2022 18:17:13Executed action "GetECIno.Controllers.MongoDBController.Result (GetECINo)" in 548.7743ms
+06/21/2022 18:17:13Executed endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 18:17:13HTTP "POST" "/api/mongodb/getEcino" responded 404 in 645.4367 ms
+06/21/2022 18:17:13Request finished in 673.9014ms 404 application/json
+06/21/2022 18:21:15Now listening on: "https://localhost:5001"
+06/21/2022 18:21:15Now listening on: "http://localhost:5000"
+06/21/2022 18:21:15Application started. Press Ctrl+C to shut down.
+06/21/2022 18:21:15Hosting environment: "Development"
+06/21/2022 18:21:15Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/21/2022 18:21:16Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/21/2022 18:21:16HTTP "GET" "/swagger" responded 302 in 11.7435 ms
+06/21/2022 18:21:16Request finished in 30.8616ms 302 
+06/21/2022 18:21:16Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/21/2022 18:21:17HTTP "GET" "/swagger/index.html" responded 200 in 206.6212 ms
+06/21/2022 18:21:17Request finished in 207.4411ms 200 text/html; charset=utf-8
+06/21/2022 18:21:17Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/21/2022 18:21:17HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 589.1727 ms
+06/21/2022 18:21:17Request finished in 590.9675ms 200 application/json; charset=utf-8
+06/21/2022 18:22:47Request starting HTTP/2 POST https://localhost:5001/api/mongodb/getEcino application/json 63
+06/21/2022 18:22:47Executing endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 18:22:47Route matched with "{action = \"Result\", controller = \"MongoDB\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult Result(GetECIno.Models.EcinoRequest)" on controller "GetECIno.Controllers.MongoDBController" ("GetECINo").
+06/21/2022 18:22:48Executing action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)" - Validation state: Valid
+06/21/2022 18:22:48Request: "{\"Name\":\"ABCD\",\"Gender\":\"male\",\"Dob\":\"2001/01/19\"}"
+06/21/2022 18:22:48Database Connected Successfully
+06/21/2022 18:22:48No matches found
+06/21/2022 18:22:48Executed action method "GetECIno.Controllers.MongoDBController.Result (GetECINo)", returned result "Microsoft.AspNetCore.Mvc.ContentResult" in 133.9439ms.
+06/21/2022 18:22:48Executing ContentResult with HTTP Response ContentType of "application/json"
+06/21/2022 18:22:48Executed action "GetECIno.Controllers.MongoDBController.Result (GetECINo)" in 536.3691ms
+06/21/2022 18:22:48Executed endpoint '"GetECIno.Controllers.MongoDBController.Result (GetECINo)"'
+06/21/2022 18:22:48HTTP "POST" "/api/mongodb/getEcino" responded 404 in 629.4300 ms
+06/21/2022 18:22:48Request finished in 662.1496ms 404 application/json

@@ -1,0 +1,50 @@
+06/10/2022 12:34:50Application startup exception
+System.InvalidOperationException: A suitable constructor for type 'GetECINo.Middleware.AuditMiddleware' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+06/10/2022 13:24:31Application startup exception
+System.InvalidOperationException: A suitable constructor for type 'GetECINo.Middleware.AuditMiddleware' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+06/10/2022 16:00:24Now listening on: "https://localhost:5001"
+06/10/2022 16:00:24Now listening on: "http://localhost:5000"
+06/10/2022 16:00:24Application started. Press Ctrl+C to shut down.
+06/10/2022 16:00:24Hosting environment: "Development"
+06/10/2022 16:00:24Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/10/2022 16:00:25Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+06/10/2022 16:00:25Executing endpoint '"GetECIno.Controllers.WeatherForecastController.Get (GetECINo)"'
+06/10/2022 16:00:25Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[GetECIno.WeatherForecast] Get()" on controller "GetECIno.Controllers.WeatherForecastController" ("GetECINo").
+06/10/2022 16:00:25Executing ObjectResult, writing value of type '"GetECIno.WeatherForecast[]"'.
+06/10/2022 16:00:25Executed action "GetECIno.Controllers.WeatherForecastController.Get (GetECINo)" in 107.0991ms
+06/10/2022 16:00:25Executed endpoint '"GetECIno.Controllers.WeatherForecastController.Get (GetECINo)"'
+06/10/2022 16:00:25HTTP "GET" "/weatherforecast" responded 200 in 416.2477 ms
+06/10/2022 16:00:25Request finished in 434.7855ms 200 application/json; charset=utf-8
+06/10/2022 16:00:26Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+06/10/2022 16:00:26HTTP "GET" "/favicon.ico" responded 404 in 1.1956 ms
+06/10/2022 16:00:26Request finished in 1.6799ms 404 
+06/10/2022 16:16:03Now listening on: "https://localhost:5001"
+06/10/2022 16:16:03Now listening on: "http://localhost:5000"
+06/10/2022 16:16:03Application started. Press Ctrl+C to shut down.
+06/10/2022 16:16:03Hosting environment: "Development"
+06/10/2022 16:16:03Content root path: "C:\Users\mt4018\source\repos\GETECIno\GETECIno"
+06/10/2022 16:16:04Request starting HTTP/2 GET https://localhost:5001/weatherforecast  
+06/10/2022 16:16:05Executing endpoint '"GetECIno.Controllers.WeatherForecastController.Get (GetECINo)"'
+06/10/2022 16:16:05Route matched with "{action = \"Get\", controller = \"WeatherForecast\"}". Executing controller action with signature "System.Collections.Generic.IEnumerable`1[GetECIno.WeatherForecast] Get()" on controller "GetECIno.Controllers.WeatherForecastController" ("GetECINo").
+06/10/2022 16:16:05Executing ObjectResult, writing value of type '"GetECIno.WeatherForecast[]"'.
+06/10/2022 16:16:05Executed action "GetECIno.Controllers.WeatherForecastController.Get (GetECINo)" in 74.5726ms
+06/10/2022 16:16:05Executed endpoint '"GetECIno.Controllers.WeatherForecastController.Get (GetECINo)"'
+06/10/2022 16:16:05HTTP "GET" "/weatherforecast" responded 200 in 357.9413 ms
+06/10/2022 16:16:05Request finished in 372.8884ms 200 application/json; charset=utf-8
+06/10/2022 16:16:21Request starting HTTP/2 GET https://localhost:5001/swagger  
+06/10/2022 16:16:21HTTP "GET" "/swagger" responded 302 in 6.3042 ms
+06/10/2022 16:16:21Request finished in 8.7063ms 302 
+06/10/2022 16:16:21Request starting HTTP/2 GET https://localhost:5001/swagger/index.html  
+06/10/2022 16:16:21HTTP "GET" "/swagger/index.html" responded 200 in 56.7091 ms
+06/10/2022 16:16:21Request finished in 57.0843ms 200 text/html; charset=utf-8
+06/10/2022 16:16:21Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+06/10/2022 16:16:22HTTP "GET" "/swagger/v1/swagger.json" responded 200 in 688.0762 ms
+06/10/2022 16:16:22Request finished in 688.5853ms 200 application/json; charset=utf-8
